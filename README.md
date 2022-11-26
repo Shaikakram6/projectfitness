@@ -21,19 +21,24 @@ This is a web based application developed for health related telugu based websit
 
 ## Screenshots
 
- 
+ ![Fitness Health _ Home __ - Google Chrome 26-11-2022 12_39_11](https://user-images.githubusercontent.com/118802746/204076966-85834214-3333-4b83-b0aa-a2617092ab12.png)
 
+![Fitness Health _ Home __ - Google Chrome 26-11-2022 12_39_34](https://user-images.githubusercontent.com/118802746/204076982-eef6fbe8-a059-406e-8d62-35653844f623.png)
+
+![Fitness Health _ Home __ - Google Chrome 26-11-2022 12_39_49](https://user-images.githubusercontent.com/118802746/204076985-a1f27f4d-7e74-4c6b-965c-ad72418aad97.png)
 
 
    
 
 ### About Us -
+![Fitness Health _ Home __ - Google Chrome 26-11-2022 12_39_25](https://user-images.githubusercontent.com/118802746/204076972-2936dc06-0195-4621-8d86-f7628230469c.png)
 
 
 
 
 
 ### Privacy policy -
+![Fitness Health _ Home __ - Google Chrome 26-11-2022 12_40_06](https://user-images.githubusercontent.com/118802746/204076974-244a127e-eb05-4aec-9c40-5145734f7414.png)
 
 
 
